@@ -1,8 +1,8 @@
-import _ from "lodash";
+import _ from 'lodash';
 
 export default (something) => {
- const some = 1;
- return some;
+  const some = something;
+  return some;
 };
 
 console.log('Hello, Hexlet!');
